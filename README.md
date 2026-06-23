@@ -1,4 +1,4 @@
-🎬 Movie Recommendation System
+Movie Recommendation System
 
 A Machine Learning-powered Movie Recommendation System that suggests movies based on user preferences and interests. The application uses content-based filtering techniques to analyze movie metadata and recommend similar movies through an interactive web interface.
 
@@ -33,9 +33,13 @@ Dataset: Movie Metadata Dataset
 movie-recommendation-system/
 
 ├── app.py                 # Streamlit web application
+
 ├── recommender.py         # Recommendation engine logic
+
 ├── movies.csv             # Movie dataset
+
 ├── requirements.txt       # Project dependencies
+
 └── README.md              # Project documentation
 
 ⚙️ Installation & Setup
