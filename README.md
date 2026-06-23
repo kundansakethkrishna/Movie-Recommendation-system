@@ -44,11 +44,14 @@ Dataset: Movie Metadata Dataset
 movie-recommendation-system/
 
 ├── app.py                 # Streamlit web application
-├── recommender.py         # Recommendation engine logic
-├── movies.csv             # Movie dataset
-├── requirements.txt       # Project dependencies
-└── README.md              # Project documentation
 
+├── recommender.py         # Recommendation engine logic
+
+├── movies.csv             # Movie dataset
+
+├── requirements.txt       # Project dependencies
+
+└── README.md              # Project documentation
 
 ⚙️ Installation & Setup
 
@@ -109,5 +112,4 @@ The application allows users to select a movie and instantly receive recommendat
 ---
 
 This project was developed for academic and educational purposes as part of a CRT Mini Project Submission.
-
 Free to use and modify for learning purposes.
